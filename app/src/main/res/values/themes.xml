@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.HomeApp1208" parent="@style/Theme.Leanback" />
+</resources>

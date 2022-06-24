@@ -1,0 +1,2 @@
+rootProject.name = "HomeApp1208"
+include ':app'

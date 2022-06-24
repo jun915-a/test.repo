@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Leanback.SearchOrbViewStyle">
+        <item name="searchOrbIcon">?attr/defaultSearchIcon</item>
+        <item name="searchOrbColor">?attr/defaultSearchColor</item>
+        <item name="searchOrbIconColor">?attr/defaultSearchIconColor</item>
+        <item name="searchOrbBrightColor">?attr/defaultSearchBrightColor</item>
+    </style>
+</resources>
